@@ -36,13 +36,14 @@ I'm drawn to what happens *under the hood*: memory management, system architectu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔀 [push_swap](https://github.com/elinakarout/push_swap)
+### 🔀 [push_swap](https://https://github.com/agnesabimoussa/push-swap)
 > Sorting algorithm implementation in C using two stacks and a limited set of operations.
 
 A deep dive into algorithmic thinking and complexity optimization. The challenge: sort a stack of integers using the fewest possible moves with only push, swap, and rotate operations.
@@ -53,13 +54,13 @@ A deep dive into algorithmic thinking and complexity optimization. The challenge
 
 ---
 
-### 🌀 [a_maze_ing](https://github.com/elinakarout/a_maze_ing)
-> Maze generation and/or solving project in C.
+### 🌀 [a_maze_ing](https://github.com/AliChoukeir/A_maz_ing)
+> Maze generation and solving project in Python.
 
-Exploring graph traversal and spatial problem-solving through maze logic — a project that sits right at the intersection of algorithms and low-level memory management.
+Exploring different Maze generation and solving algorithms, notably DFS algorithm, Kruskal's Algorithm, and A* algorithm.
 
-- Built with performance and memory efficiency in mind
-- Written in **C**
+- Added visual representation of the maze.
+- Written in **Python**
 
 ---
 
