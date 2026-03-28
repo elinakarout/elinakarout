@@ -43,7 +43,7 @@ I'm drawn to what happens *under the hood*: memory management, system architectu
 
 ## 🚀 Featured Projects
 
-### 🔀 [push_swap](https://https://github.com/agnesabimoussa/push-swap)
+### 🔀 [push_swap](https://github.com/agnesabimoussa/push-swap)
 > Sorting algorithm implementation in C using two stacks and a limited set of operations.
 
 A deep dive into algorithmic thinking and complexity optimization. The challenge: sort a stack of integers using the fewest possible moves with only push, swap, and rotate operations.
