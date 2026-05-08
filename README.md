@@ -104,8 +104,7 @@ A deep dive into algorithmic thinking and complexity optimization. The challenge
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-elinakarout-181717?style=for-the-badge&logo=github)](https://github.com/elinakarout)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elinakarout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/elinakarout) &nbsp; &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-elinakarout-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elliekarout@gmail.com)
 </div>
 
 ---
