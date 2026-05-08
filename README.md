@@ -2,9 +2,7 @@
 
 # Hi, I'm Elina 👋
 
-**42 Beirut Student · Low-Level Programming Enthusiast · Systems Thinker**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=elinakarout&color=blueviolet&style=flat-square)](https://github.com/elinakarout)
+**42 Beirut Student · Low-Level Programming Enthusiast · Systems Thinker· AI & Python Explorer**
 
 </div>
 
@@ -29,7 +27,6 @@ I'm drawn to what happens *under the hood*: memory management, system architectu
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Tools & Environment**
 
@@ -43,14 +40,16 @@ I'm drawn to what happens *under the hood*: memory management, system architectu
 
 ## 🚀 Featured Projects
 
-### 🔀 [push_swap](https://github.com/agnesabimoussa/push-swap)
-> Sorting algorithm implementation in C using two stacks and a limited set of operations.
+### 🐚 [minishell](https://github.com/achoukei-ekarout/minishell)
+> Unix shell implementation in C with support for parsing, execution, pipes, redirections, and environment management.
 
-A deep dive into algorithmic thinking and complexity optimization. The challenge: sort a stack of integers using the fewest possible moves with only push, swap, and rotate operations.
+A deep dive into systems programming and shell internals, focused on recreating core Bash behaviors and handling complex command execution.
 
-- Implemented efficient sorting strategies for various input sizes
-- Focused on minimizing instruction count
-- Pure **C**, no external libraries
+- Implemented parsing, environment expansion, pipes, and redirections
+- Managed processes and signals using Unix system calls
+- Built an AST-based execution flow
+- Built an automatic garbage collector
+- Written in **C**
 
 ---
 
@@ -61,6 +60,29 @@ Exploring different Maze generation and solving algorithms, notably DFS algorith
 
 - Added visual representation of the maze.
 - Written in **Python**
+
+---
+
+### 🔧 [codexion](https://github.com/elinakarout/Codexion)
+> Multithreading simulation in C where coders debug and compile code using shared resources protected by dongles (mutexes).
+
+A deep dive into concurrent programming, thread synchronization, and deadlock prevention. The challenge: coordinate multiple coders competing for limited debugging and compilation dongles without causing race conditions or deadlocks.
+
+- Implemented thread-safe resource management using mutexes
+- Prevented deadlocks with careful lock ordering
+- Visualized thread states and resource allocation
+- Written in **C**with **pthreads**
+
+---
+
+### 🔀 [push_swap](https://github.com/agnesabimoussa/push-swap)
+> Sorting algorithm implementation in C using two stacks and a limited set of operations.
+
+A deep dive into algorithmic thinking and complexity optimization. The challenge: sort a stack of integers using the fewest possible moves with only push, swap, and rotate operations.
+
+- Implemented efficient sorting strategies for various input sizes
+- Focused on minimizing instruction count
+- Pure **C**, no external libraries
 
 ---
 
