@@ -12,11 +12,11 @@
 
 I'm a student at **42 Beirut**, a peer-to-peer coding school where you learn by doing — no teachers, no lectures, just projects and persistence.
 
-I'm drawn to what happens *under the hood*: memory management, system architecture, and the elegant logic of low-level code. I believe understanding the foundations makes you a better engineer at every level.
+I'm drawn to what happens **under the hood**: memory management, system architecture, and the elegant logic of low-level code. **Algorithms** are a particular passion of mine too. I believe understanding the foundations makes you a better engineer at every level
 
 - 🔭 Currently working through the 42 curriculum
 - 🌱 Learning **C** and **Python**
-- ⚙️ Passionate about **low-level programming** and **computer architecture**
+- ⚙️ Passionate about **low-level programming**, **computer architecture**, and the elegance of well-crafted **algorithms**
 - 📍 Based in **Beirut, Lebanon**
 
 ---
@@ -50,6 +50,30 @@ A deep dive into systems programming and shell internals, focused on recreating 
 - Built an AST-based execution flow
 - Built an automatic garbage collector
 - Written in **C**
+
+---
+
+### 🚁 [Fly_In](https://github.com/elinakarout/fly_in)
+> Drone routing and simulation project exploring graph-based pathfinding.
+
+A deep dive into graph algorithms and optimization, simulating a fleet of drones navigating a network of waypoints. The challenge: compute efficient routes while handling constraints like distance, capacity, and time windows.
+
+- Modeled the delivery network as a weighted graph
+- Implemented pathfinding/routing algorithms to optimize drone trips
+- Added visual representation of routes and simulation state
+- Written in **Python**
+
+---
+
+### 📞 [call_me_maybe](https://github.com/elinakarout/call_me_maybe)
+> Function calling in LLMs using constrained decoding, built around a small Qwen model.
+
+A deep dive into structured generation and grammar-constrained decoding. The challenge: force a language model to reliably produce valid, schema-conformant JSON for function calls instead of hoping it gets the format right.
+
+- Implemented constrained decoding to enforce valid JSON output
+- Demonstrated dramatic reliability gains over unconstrained generation
+- Benchmarked structured vs. free-form generation accuracy
+- Written in **Python**
 
 ---
 
